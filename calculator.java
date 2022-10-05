@@ -1,3 +1,4 @@
+/* This is a case program */
 import java.util.Scanner;
 
  public class calculator
